@@ -1,0 +1,15 @@
+~~~~~~~~~~~~~~~~~~~~~~~~3C's in Agile~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+_____________________________________________________________________________________________
+Card: This refers to the user story or requirement written on a physical or digital card.
+ The card contains information about what needs to be done, who it's for, and why it's important.
+
+Conversation: This emphasizes the importance of face-to-face communication and collaboration within the team. 
+Instead of relying solely on documentation, Agile encourages team members to have conversations to clarify requirements
+, discuss solutions, and ensure everyone has a shared understanding of the work.
+
+Confirmation: This involves creating acceptance criteria or tests that need to be met for a user story to be considered complete. 
+By defining clear criteria upfront, the team can ensure that the work meets the customer's expectations and fulfills the intended purpose.
+
+These 3C's help teams streamline their processes, improve communication, and deliver 
+value to customers in a more efficient and effective manner within the Agile framework.
