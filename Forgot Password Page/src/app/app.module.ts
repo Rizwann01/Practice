@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 import { FormsModule } from '@angular/forms';
 import { OtpVerificationComponent } from './otp-verification/otp-verification.component';
+import { PasswordResetSuccessComponent } from './password-reset-success/password-reset-success.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ForgotPasswordComponent,
-    OtpVerificationComponent
+    OtpVerificationComponent,
+    PasswordResetSuccessComponent
   ],
   imports: [
     BrowserModule,
